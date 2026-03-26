@@ -1,0 +1,13 @@
+
+    
+    
+    
+    create table "CBK_DASHBOARD"."main"."MobilePayments" ("Year" integer,"Month" text,"Active Agents" integer,"Total Registered Mobile Money Accounts (Millions)" float8,"Total Agent Cash in Cash Out (Volume Million)" float8,"Total Agent Cash in Cash Out (Value KSh billions)" float8)
+  ;
+    -- dbt seed --
+    
+          COPY "CBK_DASHBOARD"."main"."MobilePayments" FROM 'C:\Users\HP\Documents\CBK_Dashboard\seeds\MobilePayments.csv' (FORMAT CSV, HEADER TRUE, DELIMITER ',')
+        
+
+;
+  

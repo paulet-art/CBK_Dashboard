@@ -1,0 +1,1 @@
+{"_invocation_id": "eab6235e-fc0d-4d79-9e0d-82b6f2a6b39e", "linked": {"0": {"name": "seed.CBK_DASHBOARD.MobilePayments", "type": "seed", "succ": [1]}, "1": {"name": "model.CBK_DASHBOARD.stg_mobilepayments", "type": "model", "succ": [2]}, "2": {"name": "model.CBK_DASHBOARD.fact_transaction", "type": "model"}}}

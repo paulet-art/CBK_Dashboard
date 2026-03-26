@@ -1,0 +1,312 @@
+{
+  "name": "Mobile Payments Dark",
+  "dataColors": ["#e4d9ff", "#6b7fd4", "#48c78e", "#f14668", "#273469", "#fafaff"],
+  "background": "#1e2749",
+  "foreground": "#fafaff",
+  "tableAccent": "#e4d9ff",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1e2749"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1e2749"
+              }
+            },
+            "transparency": 35
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4D9FF"
+              }
+            },
+            "radius": 8,
+            "weight": 1
+          }
+        ],
+        "title": [
+          {
+            "show": false
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#fafaff"
+              }
+            },
+            "fontSize": 10,
+            "fontFamily": "DM Mono"
+          }
+        ],
+        "values": [
+          {
+            "color": {
+              "solid": {
+                "color": "#fafaff"
+              }
+            },
+            "fontSize": 28,
+            "fontFamily": "DM Serif Display"
+          }
+        ]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1e2749"
+              }
+            },
+            "transparency": 35
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4D9FF"
+              }
+            },
+            "radius": 8,
+            "weight": 1
+          }
+        ],
+        "title": [
+          {
+            "show": false
+          }
+        ],
+        "card": [
+          {
+            "outline": {
+              "color": {
+                "solid": {
+                  "color": "#E4D9FF"
+                }
+              },
+              "weight": 1
+            }
+          }
+        ]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1e2749"
+              }
+            },
+            "transparency": 35
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4D9FF"
+              }
+            },
+            "radius": 8,
+            "weight": 1
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "DM Serif Display",
+            "color": {
+              "solid": {
+                "color": "#fafaff"
+              }
+            },
+            "fontSize": 17
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#fafaff"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "clusteredColumnChart": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1e2749"
+              }
+            },
+            "transparency": 35
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4D9FF"
+              }
+            },
+            "radius": 8,
+            "weight": 1
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "DM Serif Display",
+            "color": {
+              "solid": {
+                "color": "#fafaff"
+              }
+            },
+            "fontSize": 17
+          }
+        ]
+      }
+    },
+    "comboChart": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1e2749"
+              }
+            },
+            "transparency": 35
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4D9FF"
+              }
+            },
+            "radius": 8,
+            "weight": 1
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "DM Serif Display",
+            "color": {
+              "solid": {
+                "color": "#fafaff"
+              }
+            },
+            "fontSize": 17
+          }
+        ]
+      }
+    },
+    "areaChart": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1e2749"
+              }
+            },
+            "transparency": 35
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4D9FF"
+              }
+            },
+            "radius": 8,
+            "weight": 1
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "DM Serif Display",
+            "color": {
+              "solid": {
+                "color": "#fafaff"
+              }
+            },
+            "fontSize": 17
+          }
+        ]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1e2749"
+              }
+            },
+            "transparency": 100
+          }
+        ]
+      }
+    },
+    "shape": {
+      "*": {
+        "fill": [
+          {
+            "color": {
+              "solid": {
+                "color": "#273469"
+              }
+            },
+            "transparency": 50
+          }
+        ],
+        "line": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4D9FF"
+              }
+            },
+            "weight": 1
+          }
+        ]
+      }
+    }
+  }
+}

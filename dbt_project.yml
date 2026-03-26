@@ -1,0 +1,16 @@
+name: CBK_DASHBOARD
+version: "1.0.0"
+config-version: 2
+
+profile: CBK_DASHBOARD
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+
+models:
+  CBK_DASHBOARD:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
