@@ -8,7 +8,7 @@ One dataset. One transformation layer. One dashboard. One clear story.
 ---
 
 ## 🔗 View Dashboard
-👉 [Click to view the full dashboard (Google Drive)]()
+👉 [Click to view the full dashboard (Google Drive)](https://drive.google.com/file/d/1OVnw6Xz12SdbZzC_QEtQJmGhZCxrbyaU/view?usp=sharing)
 
 ---
 
